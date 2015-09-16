@@ -15,7 +15,7 @@ From Visual Studio create a local **AppSettingsSecrets.config** file (not includ
 </appSettings>
 ```
 
-Modify the values in that file with your own VSO account and credentials. Steps for setting up the credentails can be found here:
+Modify the values in that file with your own VSO account and credentials. Steps for setting up the credentials can be found here:
 VSO Alternate Authentication Credential 
 https://www.visualstudio.com/integrate/get-started/auth/overview
 
